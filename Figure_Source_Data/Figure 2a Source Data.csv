@@ -1,0 +1,19 @@
+Indicator,Category,Decision,Response,Relative Importance Mean,Relative Importance Min,Relative Importance Max
+Reef Area (10km),Environment,Confirmed,-,0.09476749,0.082277415,0.105441574
+Penalty Frequency (O5),Governance,Confirmed,-,0.080067505,0.06388142,0.098633453
+User-Specific Rules (O4),Governance,Confirmed,+,0.078245636,0.063403225,0.096495876
+Distance from Market,Environment,Confirmed,-,0.074482626,0.060084885,0.090738836
+Initial Fish Biomass,Environment,Confirmed,-,0.071803054,0.043702085,0.094861694
+Rules Change with Social Conditions (O4),Governance,Confirmed,+,0.061626684,0.047907385,0.078505177
+Graduated Sanctions (O6),Governance,Confirmed,+,0.058099719,0.042638597,0.076540989
+Group Involvement,Social,Confirmed,+,0.053856442,0.037922112,0.068384486
+Management Rights,Property.Rights,Confirmed,+,0.052185823,0.033445069,0.071811256
+Rules Change with Eco Conditions (O4),Governance,Confirmed,+,0.048765211,0.017383845,0.065721189
+Compliance Monitoring (O5),Governance,Confirmed,+/-,0.04642805,0.024575749,0.063825739
+Clearly Defined Boundaries (O3),Governance,Confirmed,+/-,0.04590604,0.026826662,0.06341104
+DHW 4,Environment,Confirmed,+/-,0.045079217,0.016783278,0.058462487
+Land Area (10km),Environment,Confirmed,-,0.043642667,0.014549174,0.064600218
+Livelihood Diversity,Social,Confirmed,+/-,0.041225791,0.023750518,0.06301746
+Harvest Rights,Property.Rights,Confirmed,-,0.036317933,0.019357136,0.057090946
+Rule/Decision Making Part (O1),Governance,Confirmed,+/-,0.035978114,0.013382487,0.050640614
+MPA,Other,Confirmed,+/-,0.031522,0.015130842,0.04705456
